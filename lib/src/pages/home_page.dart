@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
   final TextStyle _textStyle = TextStyle(fontSize: 25);
-  final int conteo = 10;
+  int conteo = 10;
 
   @override
   Widget build(BuildContext context) {
