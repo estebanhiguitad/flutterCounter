@@ -1,5 +1,5 @@
 class Divisora {
-  int div(int a, int b) {
+  int divisor(int a, int b) {
     return a + b;
   }
 }
