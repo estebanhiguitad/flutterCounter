@@ -1,4 +1,4 @@
-import 'package:contador/src/calculator.dart';
+import 'package:contador/src/domain/calculator.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
